@@ -1,0 +1,60 @@
+__pycache__
+logs
+
+results
+vizenv
+tpe/vizenv
+tpe/data/raw
+__pycache__/
+*.pyc
+*.npz
+experiments/
+# ROS 2 / Colcon build folders
+build/
+install/
+log/
+
+# Python & ML environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+wandb/
+
+# C++ / CMake compiled binaries
+*.o
+*.so
+*.exe
+cmake-build-*/
+
+# Large simulation assets / recordings (optional)
+*.bag
+*.db3
+# Exemplo para ignorar pastas de build e dependências
+node_modules/
+build/
+dist/
+*.log
+.DS_Store
+
+
+
+
+
+myvenv/
+checkpoints/
+runs/
+tpe/
+MUJOCO_LOG.TXT
+.vscode/
+MUJOCO_LOG.TXT
+checkpoints/
+evaluation/
+fsm/
+myvenv/
+new_test.py
+open_erro.py
+runs/
+tpe/
+utilities/
+utils/
