@@ -49,12 +49,3 @@ MUJOCO_LOG.TXT
 .vscode/
 MUJOCO_LOG.TXT
 checkpoints/
-evaluation/
-fsm/
-myvenv/
-new_test.py
-open_erro.py
-runs/
-tpe/
-utilities/
-utils/
