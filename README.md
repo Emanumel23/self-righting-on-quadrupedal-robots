@@ -1,4 +1,4 @@
-# Go2 Self-Righting (Evolutionary Strategies)
+# Go2 Self-Righting 
 
 This project implements a learning framework for the Unitree Go2 robot to master self-righting maneuvers using Evolutionary Strategies (CEM/CMA-ES). The project architecture is stratified into three primary modules: the **Training Framework**, the **Simulation Environment**, and **Utilities**.
 
